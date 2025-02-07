@@ -1,0 +1,11 @@
+mkdir -> to create a empty dirctory
+touch -> to create a empty file
+git config --list -> list out the email and password
+git status
+git add
+git commit -m "messege"
+git pull
+git push
+git branch name
+git checkout branchname
+
